@@ -11,6 +11,8 @@ body {
   border: 2px double;
   background-color: black;
   border-radius: 10px;
+  max-width:none;
+  min-width:max-content;
   /* Optional: rounded corners */
   animation: glow 3s ease-in-out infinite;
 }
